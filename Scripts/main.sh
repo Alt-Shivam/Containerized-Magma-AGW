@@ -3,11 +3,9 @@
 # switch to root user
 sudo su
 
-# Clone magma repo
+#Clone magma repo
 git clone https://github.com/magma/magma.git 
-
-
-# Export env variables
+#Export env variables
 sudo su
 export HOME=/home/ubuntu/
 export MAGMA_ROOT=/home/ubuntu/magma/

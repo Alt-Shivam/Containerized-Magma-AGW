@@ -1,3 +1,6 @@
+#!/bin/bash
+
+
 # switch to root user
 sudo su
 

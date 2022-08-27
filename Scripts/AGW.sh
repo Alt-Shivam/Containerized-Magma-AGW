@@ -33,4 +33,4 @@ sed -i 's/focal-1.7.0/focal-ci/' /opt/magma/lte/gateway/deploy/roles/magma_deplo
 ./agw_install_docker.sh
 
 # Reboot VM
-sudo reboot now
+# sudo reboot now

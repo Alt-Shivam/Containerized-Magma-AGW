@@ -1,8 +1,5 @@
 #!/bin/bash
 
-# switch to root user
-sudo su
-
 #Clone magma repo
 git clone https://github.com/magma/magma.git 
 #Export env variables
